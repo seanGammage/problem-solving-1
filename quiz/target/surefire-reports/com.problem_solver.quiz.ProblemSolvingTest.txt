@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.problem_solver.quiz.ProblemSolvingTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 s - in com.problem_solver.quiz.ProblemSolvingTest
