@@ -1,7 +1,7 @@
 # problem-solving-1
 
-1. Sum of Array Elements
-  i. Calculate and return the sum of all elements in an array.
+1.Sum of Array Elements
+  i.Calculate and return the sum of all elements in an array.
 
 2. Even Numbers between 1 and 20
   i. Generate and return a string containing even numbers between 1 and 20.
