@@ -29,7 +29,3 @@
 
 10. Sum of Even and Product of Odd Numbers in an Array
   i. Calculate and return the sum of even numbers and the product of odd numbers in an array.
-
-11. This will be deleted.
-
-12. This is step 12, and will be deleted.

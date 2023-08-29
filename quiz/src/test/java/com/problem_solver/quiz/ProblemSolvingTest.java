@@ -35,6 +35,7 @@ public class ProblemSolvingTest {
     //     assertArrayEquals(expectedSequence, ProblemSolving.fibonacciSequence(5));
     // }
 
+    // TODO: Robert
     // @Test
     // public void testMaximumElement() {
     //     int[] data = { 12, 45, 9, 27, 6 };
@@ -54,12 +55,14 @@ public class ProblemSolvingTest {
     //     assertTrue(ProblemSolving.isPalindrome(palindromeArray));
     // }
 
+    // TODO: Fardeens
     // @Test
     // public void testSmallestElement() {
     //     int[] values = { 8, 3, 11, 5, 7 };
     //     assertEquals(3, ProblemSolving.smallestElement(values));
     // }
 
+    // TODO: Mustafa
     // @Test
     // public void testSumOfEvenAndProductOfOdd() {
     //     int[] nums = { 2, 5, 7, 10, 3 };
