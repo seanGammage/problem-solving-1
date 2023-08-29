@@ -32,4 +32,4 @@
 
 11. This will be deleted.
 
-12. Blah
+12. This is step 12, and will be deleted.
