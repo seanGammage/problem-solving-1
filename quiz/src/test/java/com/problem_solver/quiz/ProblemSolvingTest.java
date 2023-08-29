@@ -42,6 +42,7 @@ public class ProblemSolvingTest {
     //     assertEquals(45, ProblemSolving.maximumElement(data));
     // }
 
+    // TODO: Mustafa
     // @Test
     // public void testReverseArray() {
     //     int[] originalArray = { 1, 2, 3, 4, 5 };
@@ -62,7 +63,6 @@ public class ProblemSolvingTest {
     //     assertEquals(3, ProblemSolving.smallestElement(values));
     // }
 
-    // TODO: Mustafa
     // @Test
     // public void testSumOfEvenAndProductOfOdd() {
     //     int[] nums = { 2, 5, 7, 10, 3 };
